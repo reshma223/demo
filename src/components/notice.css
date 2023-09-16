@@ -1,0 +1,26 @@
+.notice-container {
+    display: flex;
+    align-items: center;
+    padding: 20px; /* Add padding on both sides */
+    margin-top: 200px; /* Adjust the top margin as needed (200-300) */
+    background-color: #f0f0f0; /* Optional background color for the container */
+    border-radius: 8px; /* Optional border radius for a rounded appearance */
+  }
+  
+  .profile-icon {
+    width: 50px; /* Adjust the width of the profile icon */
+    height: 50px; /* Adjust the height of the profile icon */
+    border-radius: 50%; /* Make the profile icon circular */
+    overflow: hidden; /* Hide any overflowing content */
+    margin-right: 20px; /* Add spacing between icon and text */
+  }
+  
+  .profile-icon img {
+    width: 100%; /* Ensure the image fills the circle */
+    height: auto; /* Maintain aspect ratio */
+  }
+  
+  .text p {
+    display: inline;
+    margin: 0; /* Remove default margin for the paragraph */
+  }

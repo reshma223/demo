@@ -1,0 +1,76 @@
+.logo-big-icon1 {
+  position: absolute;
+  top: 220px;
+  left: 24px;
+  width: 641px;
+  height: 508px;
+  object-fit: cover;
+}
+.container1 {
+  position: absolute;
+  top: 208px;
+  left: 758px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-whitesmoke-200);
+  width: 620px;
+  height: 642px;
+}
+.log-in1,
+.password2,
+.usernameemail {
+  position: absolute;
+  top: 283px;
+  left: 787px;
+}
+.log-in1,
+.password2 {
+  top: 436px;
+}
+.log-in1 {
+  top: 92px;
+  left: 995px;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-inknut-antiqua);
+  color: var(--color-lightseagreen);
+}
+.password3,
+.user-name {
+  width: 570px;
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 333px;
+  left: 783px;
+}
+.password3 {
+  top: 486px;
+}
+.login-button1 {
+  width: 176px;
+  position: absolute;
+  top: 609px;
+  left: 989px;
+  cursor: pointer;
+}
+.sign-up1 {
+  font-weight: 700;
+}
+.dont-have-an-container {
+  position: absolute;
+  top: 693px;
+  left: 928px;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  cursor: pointer;
+}
+.login {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-dimgray-100);
+  font-family: var(--font-inria-serif);
+}

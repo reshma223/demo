@@ -1,0 +1,96 @@
+.company1-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 271px;
+  height: 242px;
+  object-fit: cover;
+}
+.company-1,
+.company1 {
+  position: absolute;
+  top: 242px;
+  left: 46px;
+}
+.company1 {
+  top: 0;
+  left: 0;
+  width: 271px;
+  height: 285px;
+}
+.company-7,
+.company7 {
+  position: absolute;
+  top: 242px;
+  left: 47px;
+}
+.company7 {
+  top: 349px;
+  left: 658px;
+  width: 271px;
+  height: 285px;
+}
+.company-6 {
+  position: absolute;
+  top: 242px;
+  left: 44px;
+}
+.compan3,
+.company4,
+.company5,
+.company6 {
+  position: absolute;
+  top: 349px;
+  left: 332px;
+  width: 271px;
+  height: 285px;
+}
+.compan3,
+.company4,
+.company5 {
+  left: 0;
+}
+.compan3,
+.company4 {
+  top: 0;
+  left: 976px;
+}
+.compan3 {
+  left: 658px;
+}
+.company-8,
+.company8 {
+  position: absolute;
+  top: 274px;
+  left: 47px;
+}
+.company8 {
+  top: 317px;
+  left: 976px;
+  width: 271px;
+  height: 317px;
+}
+.company-2,
+.company2 {
+  position: absolute;
+  top: 242px;
+  left: 50px;
+}
+.company2 {
+  top: 0;
+  left: 329px;
+  width: 271px;
+  height: 285px;
+}
+.insurance-container {
+  position: absolute;
+  top: 311px;
+  left: 96px;
+  width: 1247px;
+  height: 634px;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-lightseagreen);
+  font-family: var(--font-inria-serif);
+}

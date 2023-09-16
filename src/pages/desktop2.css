@@ -1,0 +1,135 @@
+.nav-bar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-mistyrose);
+  width: 1440px;
+  height: 125px;
+}
+.logo-small-icon {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  width: 8rem;
+  height: 4 rem;
+  object-fit: cover;
+}
+.home1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.contact-us,
+.gov-support,
+.insurance,
+.petition {
+  position: absolute;
+  top: 0;
+  left: 115px;
+  cursor: pointer;
+}
+.contact-us,
+.gov-support,
+.insurance {
+  left: 253px;
+}
+.contact-us,
+.gov-support {
+  left: 416px;
+}
+.contact-us {
+  left: 610px;
+}
+.nav-items {
+  margin: 0;
+  position: absolute;
+  top: 48px;
+  left: 237px;
+  width: 741px;
+  height: 29px;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-lightseagreen);
+  font-family: var(--font-inter);
+}
+.farmer-1-icon {
+  position: absolute;
+  top: 100px;
+  left: 0;
+  width: 100%;
+  /* height: 899px; */
+  object-fit: cover;
+}
+.agro-solution {
+  margin: 0;
+  position: absolute;
+  margin-top: 220px;
+  margin-left: 452px;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  -webkit-text-stroke: 1px #01a98c;
+}
+.agro-container {
+  position: absolute;
+  margin-top: 320px;
+  margin-left: 412px;
+  border-radius: var(--br-xl);
+  background-color: rgba(255, 255, 255, 0.73);
+  border: 1px solid var(--color-lightseagreen);
+  box-sizing: border-box;
+  width: 655px;
+  height: 374px;
+}
+.content {
+  display: block;
+}
+.content-container {
+  margin: 0;
+  position: absolute;
+  top: 400px;
+  left: 422px;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  text-align: center;
+  display: inline-block;
+  width: 635px;
+}
+.login-button {
+  width: 176px;
+  position: absolute;
+  top: 38px;
+  left: 1043px;
+}
+.signup-button {
+  position: absolute;
+  top: 38px;
+  left: 1240px;
+}
+.home {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-white);
+  font-family: var(--font-inria-serif);
+}
+.nav-items{
+  font-size:20px;
+}
+.nav-bar{
+  width:100%;
+  height:10%;
+}
+.signup-button{
+  background-color: green;
+}
+
+.login-button{
+  background-color: green;
+}
+
+

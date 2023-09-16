@@ -1,0 +1,284 @@
+.nav-items1{
+  font-size:10px ;
+
+}
+.nav-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-mistyrose);
+  width: 100%;
+  height: 100px;
+}
+.logo-small-icon3 {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  width: 8rem;
+  height: 4 rem;
+  object-fit: cover;
+}
+.home4,
+.insurance5,
+.petition5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  cursor: pointer;
+}
+.insurance5,
+.petition5 {
+  left: 115px;
+}
+.insurance5 {
+  left: 253px;
+}
+.contact-us4,
+.gov-support3 {
+  position: absolute;
+  top: 0;
+  left: 416px;
+}
+.contact-us4 {
+  left: 610px;
+  cursor: pointer;
+}
+.nav-items1 {
+  margin: 0;
+  position: absolute;
+  top: 48px;
+  left: 387px;
+  width: 741px;
+  height: 29px;
+  text-align: left;
+  font-size: 20px;
+  color: var(--color-lightseagreen);
+  font-family: var(--font-inter);
+}
+.gov-container {
+
+  position: absolute;
+  top: 100px;
+  left: -55px;
+  background-color: #d9d9d9;
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1650px;
+  height: 76px;
+}
+.gov-support4 {
+  margin: 0;
+  position: absolute;
+  top: 112px;
+  left: 24px;
+  font-size: var(--font-size-21xl);
+  font-weight: 700;
+  font-family: var(--font-inknut-antiqua);
+  color: var(--color-lightseagreen);
+}
+.searchbar-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 482px;
+  height: 50px;
+}
+.search,
+.vector-icon {
+  position: absolute;
+  top: 13px;
+  left: 82px;
+}
+.vector-icon {
+  height: 41.67%;
+  width: 5.19%;
+  top: 28.33%;
+  right: 90.87%;
+  bottom: 30%;
+  left: 3.94%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.searchbar {
+  position: absolute;
+  top: 115px;
+  left: 934px;
+  width: 482px;
+  height: 60px;
+  color: #726e6e;
+}
+.municiple,
+.province {
+  position: absolute;
+  top: 0;
+  left: 161px;
+}
+.municiple {
+  left: 0;
+}
+.gov-nav,
+.ministry {
+  position: absolute;
+  top: 3px;
+  left: 312px;
+}
+.gov-nav {
+  top: 125px;
+  left: 446px;
+  width: 403px;
+  height: 32px;
+}
+.notice2,
+.notice3,
+.notice4,
+.notice5 {
+  position: absolute;
+  left: 0;
+  background-color: var(--color-whitesmoke-200);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1440px;
+  height: 167px;
+}
+.notice5 {
+  top: 869px;
+  opacity: 0.6;
+}
+.notice2,
+.notice3,
+.notice4 {
+  top: 702px;
+}
+.notice2,
+.notice3 {
+  top: 535px;
+}
+.notice2 {
+  top: 368px;
+}
+.notice1-child,
+.notice1-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.notice1-child {
+  background-color: var(--color-whitesmoke-200);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1440px;
+  height: 167px;
+}
+.notice1-item {
+  width: 83px;
+  height: 78px;
+}
+.lorem-ipsum-dolor {
+  margin: 0;
+}
+.lorem-ipsum-dolor-container {
+  position: absolute;
+  top: 5px;
+  left: 174px;
+}
+.notice1,
+.notice11 {
+  position: absolute;
+  top: 44px;
+  left: 30px;
+  width: 1347px;
+  height: 92px;
+}
+.notice1 {
+  top: 201px;
+  left: 0;
+  width: 1440px;
+  height: 167px;
+}
+.lorem-ipsum-dolor-container1 {
+  position: absolute;
+  top: 489px;
+  left: 187px;
+}
+.group-child,
+.group-item {
+  position: absolute;
+  top: 158px;
+  left: 2px;
+  width: 83px;
+  height: 78px;
+}
+.group-item {
+  top: 327px;
+  left: 0;
+}
+.group-icon,
+.lorem-ipsum-dolor-container2 {
+  position: absolute;
+  top: 153px;
+  left: 174px;
+}
+.group-icon {
+  top: 7px;
+  left: 0;
+  width: 83px;
+  height: 78px;
+}
+.group-child2,
+.lorem-ipsum-dolor-container4 {
+  position: absolute;
+  top: 489px;
+  left: 174px;
+}
+.group-child2 {
+  top: 491px;
+  left: 0;
+  width: 83px;
+  height: 78px;
+}
+.group-container,
+.group-parent {
+  position: absolute;
+  top: 0;
+  left: 2px;
+  width: 1347px;
+  height: 576px;
+}
+.group-parent {
+  top: 175px;
+  left: 0;
+  width: 1349px;
+}
+.govsupport,
+.notices5 {
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.notices5 {
+  position: absolute;
+  top: 245px;
+  left: 30px;
+  width: 1360px;
+  height: 751px;
+}
+.govsupport {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+}
+
+p{
+  font-size: 18px;
+}
+.notice-container {
+  margin: 10px 0;
+  padding: 10px;
+}
+
