@@ -1,0 +1,192 @@
+.navbar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-mistyrose);
+  width: 100%;
+  height: 125px;
+}
+.logo-small-icon1 {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  width: 8rem;
+  height: 4 rem;
+  object-fit: cover;
+}
+.home2,
+.petition1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  cursor: pointer;
+}
+.petition1 {
+  left: 115px;
+}
+.gov-support1,
+.insurance1 {
+  position: absolute;
+  top: 0;
+  left: 253px;
+}
+.gov-support1 {
+  left: 416px;
+  cursor: pointer;
+}
+.contact-us1 {
+  position: absolute;
+  top: 0;
+  left: 610px;
+}
+.contact-us2,
+.nav-item {
+  margin: 0;
+  position: absolute;
+  color: var(--color-lightseagreen);
+}
+.nav-item {
+  top: 57px;
+  left: 387px;
+  width: 741px;
+  height: 29px;
+  text-align: left;
+  font-size: 20px;
+  font-family: var(--font-inter);
+}
+.contact-us2 {
+  top: 150px;
+  left: 567px;
+  font-size: var(--font-size-45xl);
+  font-weight: 700;
+  font-family: inherit;
+}
+.container2 {
+  position: absolute;
+  top: 250px;
+  left: 387px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-whitesmoke-100);
+  border: 1px solid var(--color-lightseagreen);
+  box-sizing: border-box;
+  width: 680px;
+  height: 500px;
+}
+.submit-button1 {
+  width: 238px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.submit {
+  margin: 0;
+  position: absolute;
+  top: 0px;
+  left: 58px;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+}
+.submit-button {
+  position: absolute;
+  top: 820px;
+  left: 625px;
+  width: 238px;
+  height: 69px;
+  color: green;
+}
+.wrapper {
+  width: 570px;
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.subject1 {
+  margin: 0;
+  position: absolute;
+  top: 11px;
+  left: 14px;
+  font-size: 20px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.subject {
+  position: absolute;
+  top: 544px;
+  left: 442px;
+  width: 570px;
+  height: 66px;
+}
+.full-name {
+  margin: 0;
+  position: absolute;
+  top: 4px;
+  left: 7px;
+  font-size: 20px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.name,
+.rectangle-formgroup {
+  width: 570px;
+  position: absolute;
+}
+.name {
+  top: 353px;
+  left: 442px;
+  height: 66px;
+}
+.rectangle-formgroup {
+  top: 0;
+  left: 0;
+}
+.your-message {
+  margin: 0;
+  position: absolute;
+  top: 10px;
+  left: 12px;
+  font-size: 20px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.message {
+  position: absolute;
+  top: 629px;
+  left: 444px;
+  width: 570px;
+  height: 173px;
+}
+.email-address {
+  margin: 0;
+  position: absolute;
+  top: 5px;
+  left: 14px;
+  font-size: 20px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.email {
+  position: absolute;
+  top: 446px;
+  left: 442px;
+  width: 570px;
+  height: 66px;
+}
+.contact {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 40px;
+  color: var(--color-gray-100);
+  font-family: var(--font-inria-serif);
+}
+.form-control{
+  margin-top: 0px;
+  width:100%;
+  height:80px;
+}

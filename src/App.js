@@ -4,13 +4,13 @@ import {
   useNavigationType,
   useLocation,
 } from "react-router-dom";
-import Desktop2 from "./pages/desktop2";
-import Desktop9 from "./pages/desktop9";
-import Desktop8 from "./pages/desktop8";
-import Desktop7 from "./pages/desktop7";
-import Desktop5 from "./pages/desktop5";
-import Desktop4 from "./pages/desktop4";
-import Desktop3 from "./pages/desktop3";
+import home from "./pages/Home";
+import signup from "./pages/signup";
+import login from "./pages/login";
+import contact from "./pages/contact";
+import petition from "./pages/petition";
+import insurance from "./pages/insurance";
+import govSupport from "./pages/govSupport";
 import { useEffect } from "react";
 
 function App() {
@@ -75,13 +75,13 @@ function App() {
 
   return (
     <Routes>
-      <Route path="/" element={<Desktop2 />} />
-      <Route path="/signup" element={<Desktop9 />} />
-      <Route path="/login" element={<Desktop8 />} />
-      <Route path="/contact" element={<Desktop7 />} />
-      <Route path="/petition" element={<Desktop5 />} />
-      <Route path="/insurance" element={<Desktop4 />} />
-      <Route path="/govsupport" element={<Desktop3 />} />
+      <Route path="/" element={<home />} />
+      <Route path="/signup" element={<signup />} />
+      <Route path="/login" element={<login />} />
+      <Route path="/contact" element={<contact />} />
+      <Route path="/petition" element={<petition />} />
+      <Route path="/insurance" element={<insurance />} />
+      <Route path="/govSupport" element={<govSupport />} />
     </Routes>
   );
 }
